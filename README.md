@@ -4,7 +4,7 @@ New Image Logger made by me
 
 How to download:
 
-Step one: download the exe
+Step one: download the files 
 
 Step two: extract the winrar
 
