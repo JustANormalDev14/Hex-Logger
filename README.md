@@ -14,4 +14,4 @@ Step Four: Execute the exe
 
 Expect Bugs since its in development
 
-Note: A phot of the gui is attached
+Note: A photo of the gui is attached
