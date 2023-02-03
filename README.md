@@ -2,18 +2,23 @@
 
 New Image Logger made by me
 
-How to download:
+Here are the steps to download and execute the logger:
 
-Step one: download the files 
+First: Download the Folder the includes the exe and the notes
 
-Step two: extract the winrar
+Second: Extract the files
 
-Step three: Read the note 
+Third: Read the note so!
+ you don't have any problems
 
-Step Four: Execute the exe
+Finally: Execute the file
+[8b1307db-069d-4ae5-8ba4-13d14377909a](https://user-images.githubusercontent.com/124334084/216521491-1a6d7294-aca1-4f63-a3a7-26b9e93822af.png)
 
-![8b1307db-069d-4ae5-8ba4-13d14377909a](https://user-images.githubusercontent.com/124334084/216520215-04126f74-90ed-4fc3-a989-1d254722dae7.png)
 
-Note: Expect Bugs since its in development
+
+
+
+
+
 
 
